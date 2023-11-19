@@ -1,0 +1,337 @@
+[{
+  "question": "What is physics?",
+  "subject": "Physics",
+  "topic": "General",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Who gave the wave theory of light?",
+  "subject": "Physics",
+  "topic": "Light",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Who gave the theory of relativity?",
+  "subject": "Physics",
+  "topic": "Light",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name the discovery made by Sir C.V.Raman.",
+  "subject": "Physics",
+  "topic": "Light",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name the discovery made by Maxwell.",
+  "subject": "Physics",
+  "topic": "Light",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name the principle behind aero plane concept.",
+  "subject": "Physics",
+  "topic": "Light",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Who discovered the X-rays?",
+  "subject": "Physics",
+  "topic": "X-Rays",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Who is the father of unification field theory?",
+  "subject": "Physics",
+  "topic": "Light",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What do you mean by scientific method?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Who gave the quantum theory?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Which is the strongest force in nature?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Which is the weakest force in nature?",
+  "subject": "Physics",
+  "topic": "Force",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is the range of gravitational force?",
+  "subject": "Physics",
+  "topic": "Force",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name two fundamental forces in nature",
+  "subject": "Physics",
+  "topic": "Force",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is a unit of physical quantity?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What are derived units?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name the SI unit of current / temperature / amount of a substance / luminous intensity",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name the SI unit of angle in a plane.",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Name the SI unit of solid angle.",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Mention some direct method of measuring length.",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is meant by light year?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Which is the instrument used to measure small masses like atom?",
+  "subject": "Physics",
+  "topic": "Units",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is meant by path length?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Define displacement?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Define uniform velocity.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Define instantaneous velocity of a body in terms of its average velocity.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is meant by uniform motion?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "Define average acceleration.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "When does an object said to be at rest?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is position - time graph?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Easy",
+  "marks": 1
+},{
+  "question": "What is the significance of velocity - time graph?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "What is the significance of displacement - time graph?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Derive the expression for time of flight of a projectile",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Derive the expression for horizontal range of a projectile.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Derive the expression for maximum height of a projectile.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Find the angle of projection at which maximum height and range are equal?",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Two vectors both equal in magnitude have their resultant equal to magnitude of either vector. Find the angle between the two vectors.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "State Newton’s laws of motion.",
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "State the laws of friction",
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "A block of 30N weight rests on a rough surface. A horizontal force of 10N required to start the motion of the block on the surface and a force of 7N will keep the block in uniform motion on the surface. Find µk and µs.",
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Prove work –energy theorem for a constant force.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "What is meant by collision? Distinguish between elastic and inelastic collision.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Derive expression for kinetic energy.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "Convert one kilowatt hour into joules.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Medium",
+  "marks": 5
+},{
+  "question": "State law of conservation of mechanical energy and illustrate the same in case of a freely falling body.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Derive an expression for potential energy of stretched spring.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "State Work- energy theorem .Prove it in case of a variable force.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Obtain the expression for loss in K.E. during an inelastic collision.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Obtain the expression for final velocities of two bodies in one dimensional elastic collision.",
+  "subject": "Physics",
+  "topic": "Work",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "State Newton’s second law of motion and hence derive F=ma.",
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "State and prove the law of conservation of linear momentum from Newton’s third law of motion.",
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Derive an expression for maximum speed of circular motion of the car on a rough banked road.",
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Obtain the expression for magnitude and direction for the resultant of two vectors making an angle between them.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "What is a projectile? Derive the equation for path of a projectile.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Show that the trajectory of projectile is parabola.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Hard",
+  "marks": 10
+},{
+  "question": "Define centripetal acceleration .Derive the expression for it.",
+  "subject": "Physics",
+  "topic": "Motion",
+  "difficulty": "Hard",
+  "marks": 10
+}]
